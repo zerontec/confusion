@@ -4,7 +4,7 @@ import { Navbar, NavbarBrand} from 'reactstrap';
 function App() {
   return (
     <div className="App">
-     <Navbar darkColor="primary">
+     <Navbar dark color="primary">
 
     <div className="container">
     <NavbarBrand href="/">Ristorante Con Fusion</NavbarBrand>
